@@ -126,22 +126,33 @@ Charts for churn by plan, monthly trend, cancellation reasons, state, escalation
 
 ## Charts
 ### Churn rate by plan
-![Churn rate by plan](Screenshots/01_Churn_Rate_By_Plan.png)
+<img width="1040" height="640" alt="01_Churn_Rate_By_Plan" src="https://github.com/user-attachments/assets/acfa6b84-ca0e-417e-84a8-1d3e127d3276" />
+
 
 ### Escalation vs churn
-![Escalation vs churn](Screenshots/05_Escalation_vs_Churn.png)
+
+<img width="1040" height="640" alt="05_Escalation_vs_Churn" src="https://github.com/user-attachments/assets/edfac696-3b52-4da2-8098-5d5950a6bf2b" />
+
 
 ### Cancellation reasons
-![Cancellation reasons](Screenshots/03_Cancellation_Reasons.png)
+
+<img width="1120" height="608" alt="03_Cancellation_Reasons" src="https://github.com/user-attachments/assets/2c7abf3d-81f0-41da-95ab-a2c1ae9b7af5" />
+
 
 ### Churn by state
-![Churn by state](Screenshots/04_Churn_By_State.png)
+
+<img width="1200" height="736" alt="04_Churn_By_State" src="https://github.com/user-attachments/assets/d80a3c3c-85fd-4d86-971c-2f5137476362" />
+
 
 ### Monthly churn trend
-![Monthly churn trend](Screenshots/02_Monthly_Churn_Trend.png)
+
+<img width="1200" height="640" alt="02_Monthly_Churn_Trend" src="https://github.com/user-attachments/assets/66160b00-7694-4f3b-9bd4-813fa9c0a5a8" />
+
 
 ### Correlation heatmap
-![Correlation heatmap](Screenshots/06_Correlation_Heatmap.png)
+
+<img width="992" height="800" alt="06_Correlation_Heatmap" src="https://github.com/user-attachments/assets/3a616a37-6a6e-4dd9-9fd7-0aaffecea488" />
+
 
 ## SQL Queries and Results
 Full file: [`SQL/churn_analysis_queries.sql`](SQL/churn_analysis_queries.sql)
